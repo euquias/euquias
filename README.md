@@ -1,12 +1,22 @@
-### Hi there 👋
+##  olá! Eu sou Euquias araujo.
 
 
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+   <a href=""https://www.euquiasdesenvolvedorfullstack.tech>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=euquias&show_icons=true&theme=merko"/>
+</div>
+
+##
+
+<div style="display:inline-block"<br>
+
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img aling="center" alt+"euquias.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</div>
