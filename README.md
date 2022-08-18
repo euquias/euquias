@@ -1,4 +1,4 @@
-##  olá! Eu sou Euquias araujo.
+##  Olá! Eu sou Euquias araujo.
 
 
 - 🔭 Hoje trabalho com front-end
