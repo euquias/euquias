@@ -7,6 +7,8 @@
 <div>
    <a href=""https://www.euquiasdesenvolvedorfullstack.tech>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=euquias&show_icons=true&theme=merko"/>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euquias&layout=compact"/>
+   </a>
 </div>
 
 ##
